@@ -64,7 +64,7 @@ Here's a detailed breakdown of each point in the DevOps beginner roadmap:
 
 📚 Access all DevOps and cloud resources at one single place 📚
 
-👉 [DevOps Roadmap GitHub Repository](https://github.com/nomadicmehul/CloudCaptain)
+👉 [One Stop for All DevOps & Cloud Resources](https://github.com/nomadicmehul/CloudCaptain)
 
 Remember, continuous learning and hands-on practice are essential for mastering DevOps concepts and technologies. Embrace a growth mindset, and don't hesitate to experiment with new tools and techniques.
 
