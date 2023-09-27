@@ -73,5 +73,17 @@ Happy learning, and may your DevOps journey be fulfilling and successful! 🚀�
 I'm thrilled to be part of your DevOps journey! Best of luck on this exciting adventure! 👍🚀 
 
 Best Regards, <br>
+
 Mehul Patel 
+
 [Connect with me](https://bio.link/nomadicmehul)
+
+## 🤝 Contributors 
+
+<a href="https://github.com/nomadicmehul/DevOps-Roadmap-2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nomadicmehul/DevOps-Roadmap-2023" />
+</a>
+
+## 🛡️ License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
