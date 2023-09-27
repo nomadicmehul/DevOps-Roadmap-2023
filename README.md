@@ -74,7 +74,7 @@ I'm thrilled to be part of your DevOps journey! Best of luck on this exciting ad
 
 Best Regards, <br>
 
-Mehul Patel 
+[Mehul Patel](https://www.youtube.com/channel/UCsbKUys6gsLn0lQbkIshIIQSub_Confirmation=1) 
 
 [Connect with me](https://bio.link/nomadicmehul)
 
